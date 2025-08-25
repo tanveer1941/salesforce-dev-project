@@ -11,8 +11,8 @@ salesforce-dev-project/
 │ └── main/
 │ └── default/
 │ ├── classes/
-│ │ ├── HelloWorld.cls # Sample Apex class
-│ │ └── HelloWorld.cls-meta.xml # Metadata for HelloWorld
+│ │ ├── Hello.cls # Sample Apex class
+│ │ └── Hello.cls-meta.xml # Metadata for World
 │ ├── objects/ # Custom objects
 │ ├── triggers/ # Apex triggers
 │ ├── lwc/ # Lightning Web Components
